@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello, World!b6679-2226from stg");
+            Console.WriteLine("Hello, World!b6679-2227from stg");
 
     }
 }
